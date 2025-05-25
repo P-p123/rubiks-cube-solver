@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rubik's Cube Solver
 
 A project for solving and visualizing the Rubik's Cube using algorithmic approaches and a graphical user interface.
@@ -104,3 +105,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 _Feedback and suggestions are welcome!_
+=======
+# rubiks-cube-solver
+>>>>>>> 12801e5b711ed2c8a3f862be7b7d4fd7f0c1f3d3
