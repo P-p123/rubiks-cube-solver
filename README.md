@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rubik's Cube Solver
 
 A project for solving and visualizing the Rubik's Cube using algorithmic approaches and a graphical user interface.
